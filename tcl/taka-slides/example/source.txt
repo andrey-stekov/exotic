@@ -5,8 +5,8 @@ taka-slides
 
 
 depends on
-- Xlib
-- farbfeld
+- TCL
+- any web browser for observe
 
 taka-slides FILENAME
 one slide per paragraph
