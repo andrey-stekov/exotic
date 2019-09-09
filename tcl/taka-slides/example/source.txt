@@ -1,0 +1,18 @@
+
+taka-slides
+
+@neko-wiki.png
+
+
+depends on
+- Xlib
+- farbfeld
+
+taka-slides FILENAME
+one slide per paragraph
+# This is a comment and will not be part of the presentation
+\# This and the next line start with backslashes
+
+\@neko-wiki.png
+
+thanks / questions?
